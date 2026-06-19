@@ -2,6 +2,8 @@
 
 Personal portfolio website for **Prasad Kale**, ECE Student | Embedded Developer | Quizzing Enthusiast.
 
+![Website Preview](images/preview.png)
+
 🔗 **Live site:** [prasad995.github.io/Website](https://prasad995.github.io/Website/)
 📍 Nashik, Maharashtra
 
