@@ -27,7 +27,13 @@ Personal portfolio website for **Prasad Kale**, ECE Student | Embedded Developer
 ### Ultrasonic Radar System
 Arduino, servo motor, and ultrasonic sensor with real-time visualization via Processing IDE.
 
-![Ultrasonic Radar Project](ultrasonic%20radar.jpg)
+<img src="ultrasonic%20radar.jpg" width="400">
+
+### RFID-Based Attendance System
+Arduino, RC522 module, and database integration for secure, timestamped attendance logging.
+
+<img src="RFID.jpg" width="400">
+
 
 ### RFID-Based Attendance System
 Arduino, RC522 module, and database integration for secure, timestamped attendance logging.
